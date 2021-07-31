@@ -1,0 +1,3 @@
+# singleTableCRUD
+SpringbootSingleTableCRUD
+springboot 入门，实现简单的单表增删查改工作
